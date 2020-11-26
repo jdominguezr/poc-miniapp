@@ -1,0 +1,41 @@
+{
+  "name": "poc-miniapp",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "aboutus-miniapp": "^0.0.2",
+    "ern-navigation": "1.2.3",
+    "login-miniapp": "0.0.2",
+    "react": "16.13.1",
+    "react-native": "0.63.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/runtime": "^7.8.4",
+    "@react-native-community/eslint-config": "^1.1.0",
+    "babel-jest": "^25.1.0",
+    "eslint": "^6.5.1",
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "ern": {
+    "moduleName": "PocMiniapp",
+    "moduleType": "ern-miniapp",
+    "packageManager": "yarn",
+    "version": "0.45.0"
+  },
+  "keywords": [
+    "ern-miniapp"
+  ]
+}
