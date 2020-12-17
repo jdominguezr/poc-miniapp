@@ -1295,10 +1295,10 @@ abort-controller@^3.0.0:
   dependencies:
     event-target-shim "^5.0.0"
 
-aboutus-miniapp@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/aboutus-miniapp/-/aboutus-miniapp-0.0.1.tgz#d3f8e45a541a465444045a07ebbada4d274ae70a"
-  integrity sha512-g8HzU0ziWM6suAUB/Q1jjohAFXWkYixlr5IkUHLWT4EM/q67fO4S3qzrCzr7PWvfA3NvKW4exTT6qw3+smXFCw==
+aboutus-miniapp@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/aboutus-miniapp/-/aboutus-miniapp-0.0.2.tgz#a27795c803f320ac79d1a7f06eabf4ca0a89c5da"
+  integrity sha512-2QD6lD+fnLGpaGmouoCogtwf6l4dHQXGymlkB6lSv03DRE9FIfvvEtpCHoW9Mh5ZhHUXDzJALHoRnMFhnSGaxg==
   dependencies:
     ern-navigation "1.2.3"
     react "16.13.1"
