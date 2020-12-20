@@ -14,7 +14,8 @@
     "ern-navigation": "1.2.3",
     "login-miniapp": "0.0.2",
     "react": "16.13.1",
-    "react-native": "0.63.3"
+    "react-native": "0.63.4",
+    "react-native-electrode-bridge": "^1.5.27"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
